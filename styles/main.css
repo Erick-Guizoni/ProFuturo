@@ -1,0 +1,30 @@
+main{
+    width: 40vw;
+    height: 62vh;
+    border-radius: 20px;
+    background-color: white;
+    top: 8vw;
+    left: 65vh;
+    position: absolute;
+}
+
+#logo-sobrepor{
+    width: 45%;
+    height: 40%;
+    position: absolute;
+    top: -6vw;
+    left: 22vh;
+}
+
+#btn-blue{
+    background-color: var(--corBotao);
+}
+
+#usuario{
+    top: 2;
+    left: 30vh;
+}
+
+#usuario-transparente{
+    position: relative;
+}
