@@ -9,22 +9,71 @@ main{
 }
 
 #logo-sobrepor{
-    width: 45%;
+    width: 40%;
     height: 40%;
+    justify-content: center;
     position: absolute;
     top: -6vw;
-    left: 22vh;
+    left: 24vh;
 }
 
-#btn-blue{
+.btn-blue{
     background-color: var(--corBotao);
 }
 
 #usuario{
-    top: 2;
+    top: 2vw;
     left: 30vh;
+    position: absolute;
+    justify-content: center;
 }
 
-#usuario-transparente{
-    position: relative;
+#senha{
+    top: 6vw;
+    left: 30vh;
+    position: absolute;
+    justify-content: center;
+}
+
+#trocar-senha{
+    top: 11vw;
+    left: 30vh;
+    position: absolute;
+}
+
+#login{
+    width: 15%;
+    height: 10%;
+    top: 14vw;
+    left: 34vh;
+    position: absolute;
+
+}
+
+#icon-github{
+    width: 4vw;
+    height: 4vh;
+    top: 19.7vw;
+    left: 31vh;
+    position: absolute;
+}
+
+#icon-google{
+    width: 3vw;
+    height: 5vh;
+    top: 19.5vw;
+    left: 41vh;
+    position: absolute;
+}
+
+p{
+    position: absolute;
+    top: 23vw;
+    left: 27vh;
+}
+
+#button-cadastrese{
+    position: absolute;
+    top: 23.8vw;
+    left: 44vh;
 }
